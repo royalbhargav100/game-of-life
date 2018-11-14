@@ -233,7 +233,7 @@
                                 <!--<artifactId>gameoflife-build</artifactId>-->
                                 <!--<version>${project.version}</version>-->
                             <!--</dependency>-->
-                        <!--</dependencies>-->
+                        <!--</dependencies sample>-->
                         <!--<configuration>-->
                             <!--<configLocation>custom-checkstyle.xml</configLocation>-->
                         <!--</configuration>-->
